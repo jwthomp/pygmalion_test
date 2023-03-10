@@ -1,5 +1,5 @@
 --extra-index-url=https://download.pytorch.org/whl/cu113/
-torch==1.10.1+cu113
+torch==1.13.1
 
 transformers
 accelerate
